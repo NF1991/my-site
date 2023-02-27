@@ -38,7 +38,7 @@ const ecommerceApp = () => {
             The site is partially responsive, and I would like to come back at
             some point to make it fully responsive. I also tried to implement an
             Added to Cart popup which would appear on the bottom left every time
-            a product is added to the cart, but I haven't quite figured out how
+            a product is added to the cart, but I have not quite figured out how
             to make it fully functional. I have left the code in there commented
             out so I can come back to it later.
           </p>

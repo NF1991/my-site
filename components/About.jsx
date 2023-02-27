@@ -24,7 +24,7 @@ const About = () => {
           </p>
         </div>
         <div className="w-full h-auto flex items-center justify-center p=4 hover:scale-105 ease-in duration-300">
-          <img
+          <Image
             src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
             alt=""
           />

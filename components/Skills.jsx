@@ -10,7 +10,7 @@ const Skills = () => {
           <div className="shadow-md p-6 hover:scale-105 ease-in duration-300">
             <div className="m-auto">
               <Image
-                src="/*/public/assets/skills/html-5.png"
+                src="/../public/assets/skills/html-5.png"
                 alt="/"
                 width="200"
                 height="200"

@@ -3,7 +3,6 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaEnvelope, FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { HiOutlineChevronDoubleUp } from "react-icons/hi";
 import Link from "next/link";
-import Image from "next/image";
 
 const Contact = () => {
   return (

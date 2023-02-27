@@ -4,7 +4,6 @@ import Link from "next/link";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { FaEnvelope, FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import { useRouter } from "next/router";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

@@ -14,7 +14,7 @@ const Contact = () => {
           <div className="col-span-3 lg:col-span-2 w-full h-full shadow-md shadow-gray-400 p-4">
             <div className="lg:p-4 h-full">
               <div>
-                <Link
+                <img
                   className="hover:scale-105 ease-in duration-300"
                   src="https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
                   alt="/"

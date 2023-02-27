@@ -34,8 +34,8 @@ const dictionaryApp = () => {
             well as Javascript and how to call an API.
           </p>
           <p>
-            If and when I come back this project, I'd like to make it
-            responsive!
+            If and when I come back this project, I would like to make it
+            responsive.
           </p>
           <Link
             href="https://wondrous-sopapillas-e09c07.netlify.app/"

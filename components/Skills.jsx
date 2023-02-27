@@ -1,15 +1,15 @@
 import React from "react";
 import Image from "next/image";
-import htmlImg from "/../../public/assets/skills/html-5.png";
-import cssImg from "/../../public/assets/skills/css-3.png";
-import jsImg from "/../../public/assets/skills/js.png";
-import tailwindImg from "/../../public/assets/skills/tailwind-css-icon.png";
-import reactImg from "/../../public/assets/skills/react.png";
-import nextImg from "/../../public/assets/skills/nextjs-icon.png";
-import bootstrapImg from "/../../public/assets/skills/bootstrap.png";
-import figmaImg from "/../../public/assets/skills/figma.png";
-import xdImg from "/../../public/assets/skills/xd.png";
-import illustratorImg from "./../public/assets/skills/illustrator.png";
+import htmlImg from "/../public/skills/html-5.png";
+import cssImg from "/../public/skills/css-3.png";
+import jsImg from "/../public/skills/js.png";
+import tailwindImg from "/../public/skills/tailwind-css-icon.png";
+import reactImg from "/../public/skills/react.png";
+import nextImg from "/../public/skills/nextjs-icon.png";
+import bootstrapImg from "/../public/skills/bootstrap.png";
+import figmaImg from "/../public/skills/figma.png";
+import xdImg from "/../public/skills/xd.png";
+import illustratorImg from "/../public/skills/illustrator.png";
 
 const Skills = () => {
   return (

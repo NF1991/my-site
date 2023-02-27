@@ -121,7 +121,7 @@ const Navbar = () => {
             </div>
             <div className="border-b border-gray-300 my-4">
               <p className="width-[85%] md:w-[90%] py-4">
-                Work together with me!
+                Work together with me.
               </p>
             </div>
           </div>

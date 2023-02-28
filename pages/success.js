@@ -1,3 +1,7 @@
 export default function Success() {
-  return <div>Form successfully submitted!</div>;
+  return (
+    <div className="flex items-center justify-center">
+      <p className="text-lg">Form successfully submitted!</p>
+    </div>
+  );
 }

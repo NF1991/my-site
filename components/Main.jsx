@@ -31,7 +31,7 @@ const Main = () => {
               </Link>
             </div>
             <div className="p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <a href="./downloads/Nicole_Forbes_CV.pdf" download>
+              <a href="/Nicole_Forbes_CV.pdf" download>
                 <BsFillPersonLinesFill />
               </a>
             </div>
